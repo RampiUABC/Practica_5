@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"PooLab.practica_5","l":"Carta"},{"p":"PooLab.practica_5","l":"Figura"},{"p":"PooLab.practica_5","l":"Juego"},{"p":"PooLab.practica_5","l":"Jugador"},{"p":"PooLab.practica_5","l":"Mazo"}];updateSearchResults();
